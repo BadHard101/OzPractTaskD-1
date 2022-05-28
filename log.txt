@@ -1,0 +1,151 @@
+CRE---28/05/2022 04:48:31---создано Class object .
+CRE---28/05/2022/04:55:43---Class object  was created.
+CRE---28/05/2022/04:55:57---Class object was created.
+CRE---28/05/2022/05:00:47---__init__was created.
+CRE---28/05/2022/05:02:03---Class object was created.
+CRE---28/05/2022/05:03:46---Class object (Hospital)was created.
+CRE---28/05/2022/05:04:03---Class object (Hospital) was created.
+CRE---28/05/2022/05:04:12---Class object(Hospital) was created.
+CRE---28/05/2022/05:04:35---Class object(Hospital) was created.
+CRE---28/05/2022/05:04:50---Class object(Hospital) was created.
+CRE---28/05/2022/05:05:22---Class object(Hospital) was created.
+CRE---28/05/2022/05:06:28---Class object(Hospital) was created.
+CRE---28/05/2022/05:07:02---Class object(Hospital) was created.
+CRE---28/05/2022/05:07:25---Class object(Hospital) was created.
+INF---28/05/2022 05:07---Class object(Hospital) len was printed by __len__.
+CRE---28/05/2022/05:08:32---Class object(Hospital) was created.
+INF---28/05/2022/05:08:32---Class object(Hospital) len was printed by __len__.
+CRE---28/05/2022/05:08:57---Class object(Hospital) was created by undef_func.
+INF---28/05/2022/05:08:57---Class object(Hospital) len was printed by __len__.
+CRE---28/05/2022/05:09:25---Class object(Hospital) was created by __init__.
+INF---28/05/2022/05:09:25---Class object(Hospital) len was printed by __len__.
+CRE---28/05/2022/05:10:29---Class (Hospital) object was created by __init__.
+INF---28/05/2022/05:10:29---Class (Hospital) length was printed by __len__.
+CRE---28/05/2022/05:19:27---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:19:35---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:23:12---Class (Hospital) object was created by __init__.
+ERR---28/05/2022/05:23:12---Class (Hospital) incorrect index.
+CRE---28/05/2022/05:23:35---Class (Hospital) object was created by __init__.
+ERR---28/05/2022/05:23:35---Class (Hospital) incorrect index caused by __getitem__.
+CRE---28/05/2022/05:30:30---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:33:04---Class (Hospital) object was created by __init__.
+ERR---28/05/2022/05:33:04---Class (Hospital) List nurses[i] caused by __getitem__.
+CRE---28/05/2022/05:33:47---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:34:14---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:34:21---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:34:51---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:36:01---Class (Hospital) object was created by __init__.
+CRE---28/05/2022/05:58:29---Class (Hospital) object was created by __init__.
+INF---28/05/2022/05:58:29---Class (Hospital) Doctor list[2] was deleted by __delitem__.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Doctor) object was created by __init__.
+INF---28/05/2022/06:29:27---Class (Doctor) patient[1] was added by new_patient.
+INF---28/05/2022/06:29:27---Class (Doctor) patient[2] was added by new_patient.
+INF---28/05/2022/06:29:27---Class (Doctor) patient[3] was added by new_patient.
+INF---28/05/2022/06:29:27---Class (Doctor) patient[4] was added by new_patient.
+INF---28/05/2022/06:29:27---Class (Doctor) patient[2] was deleted by del_patient.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Nurse) object was created by __init__.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule_day[Monday] was added by update_schedule_day.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule_day[Tuesday] was added by update_schedule_day.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule_day[Sunday] was added by update_schedule_day.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Nurse) object was created by __init__.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule_day[Thursday] was added by update_schedule_day.
+INF---28/05/2022/06:29:27---Class (Nurse) department was changed by update_department.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Nurse) object was created by __init__.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule_day[Saturday] was added by update_schedule_day.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule_day[Wednesday] was added by update_schedule_day.
+CRE---28/05/2022/06:29:27---Class (Person) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Nurse) object was created by __init__.
+CRE---28/05/2022/06:29:27---Class (Hospital) object was created by __init__.
+INF---28/05/2022/06:29:27---Class (Hospital) Doctor list[2] was deleted by __delitem__.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/06:29:27---Class (Nurse) schedule was printed by get_schedule.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Doctor) object was created by __init__.
+INF---28/05/2022/08:12:42---Class (Doctor) patient[1] was added by new_patient.
+INF---28/05/2022/08:12:42---Class (Doctor) patient[2] was added by new_patient.
+INF---28/05/2022/08:12:42---Class (Doctor) patient[3] was added by new_patient.
+INF---28/05/2022/08:12:42---Class (Doctor) patient[4] was added by new_patient.
+INF---28/05/2022/08:12:42---Class (Doctor) patient[2] was deleted by del_patient.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Nurse) object was created by __init__.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule_day[Monday] was added by update_schedule_day.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule_day[Tuesday] was added by update_schedule_day.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule_day[Sunday] was added by update_schedule_day.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Nurse) object was created by __init__.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule_day[Thursday] was added by update_schedule_day.
+INF---28/05/2022/08:12:42---Class (Nurse) department was changed by update_department.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Nurse) object was created by __init__.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule_day[Saturday] was added by update_schedule_day.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule_day[Wednesday] was added by update_schedule_day.
+CRE---28/05/2022/08:12:42---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Nurse) object was created by __init__.
+CRE---28/05/2022/08:12:42---Class (Hospital) object was created by __init__.
+INF---28/05/2022/08:12:42---Class (Hospital) Doctor list[2] was deleted by __delitem__.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:12:42---Class (Nurse) schedule was printed by get_schedule.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Doctor) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Doctor) object was created by __init__.
+INF---28/05/2022/08:13:49---Class (Doctor) patient[1] was added by new_patient.
+INF---28/05/2022/08:13:49---Class (Doctor) patient[2] was added by new_patient.
+INF---28/05/2022/08:13:49---Class (Doctor) patient[3] was added by new_patient.
+INF---28/05/2022/08:13:49---Class (Doctor) patient[4] was added by new_patient.
+INF---28/05/2022/08:13:49---Class (Doctor) patient[2] was deleted by del_patient.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Nurse) object was created by __init__.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule_day[Monday] was added by update_schedule_day.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule_day[Tuesday] was added by update_schedule_day.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule_day[Sunday] was added by update_schedule_day.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Nurse) object was created by __init__.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule_day[Thursday] was added by update_schedule_day.
+INF---28/05/2022/08:13:49---Class (Nurse) department was changed by update_department.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Nurse) object was created by __init__.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule_day[Saturday] was added by update_schedule_day.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule_day[Wednesday] was added by update_schedule_day.
+CRE---28/05/2022/08:13:49---Class (Person) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Nurse) object was created by __init__.
+CRE---28/05/2022/08:13:49---Class (Hospital) object was created by __init__.
+INF---28/05/2022/08:13:49---Class (Hospital) Doctor list[2] was deleted by __delitem__.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:13:49---Class (Nurse) schedule was printed by get_schedule.
+INF---28/05/2022/08:13:53---Class (Hospital) object was printed by __str__.
+INF---28/05/2022/08:14:31---Class (Hospital) object was printed by __str__.
+INF---28/05/2022/08:21:53---Class (Hospital) object was printed by __str__.
+INF---28/05/2022/08:22:12---Class (Hospital) object was printed by __str__.

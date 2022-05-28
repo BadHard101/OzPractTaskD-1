@@ -1,0 +1,56 @@
+Name of Hospital: ABClinic
+Address: PROSPRCT VERNADSKOGO
+
+
+List of doctors:
+
+Doctor's name: Ivanov Ivan
+Age: 34   Speciality: Doctor   Id: 123
+Patient list of Doctor Ivanov Ivan:
+Id: 1   Name of patient: Kim Ri
+Id: 3   Name of patient: Rina Ki
+
+
+Doctor's name: Bimov Ling
+Age: 32   Speciality: Doctor   Id: 75
+This doctor doesn't have patients.
+
+
+Doctor's name: Relimi Sang
+Age: 20   Speciality: Doctor   Id: 35
+This doctor doesn't have patients.
+
+
+Doctor's name: Colin Tima
+Age: 22   Speciality: Doctor   Id: 437
+This doctor doesn't have patients.
+
+
+
+List of Nurses:
+
+Nurse's name: Bi Kate
+Age: 22   Department: 6   Id: 120
+Schedule of Nurse (Bi Kate) now:
+Monday: 12:00-20:00
+Tuesday: 8:00-16:00
+Sunday: 11:00-15:00
+
+
+Nurse's name: Vam Olga
+Age: 37   Department: 3   Id: 111
+Schedule of Nurse (Vam Olga) now:
+Thursday: 10:00-20:00
+
+
+Nurse's name: Rin Tina
+Age: 28   Department: 5   Id: 24
+Schedule of Nurse (Rin Tina) now:
+Saturday: 6:00-18:00
+Wednesday: 18:00-00:00
+
+
+Nurse's name: Riven Vera
+Age: 18   Department: 4   Id: 90
+Schedule of Riven Vera is empty now
+
